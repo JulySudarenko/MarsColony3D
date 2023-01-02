@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c7c66fb9-53d9-4f8f-9ac6-833fbc13881e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Code/Interfaces/ICleanup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Interfaces/IController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Interfaces/IInitialize.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Interfaces/IExecute.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Interfaces/IFixedExecute.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/UserInput/InputController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Controllers/Controllers.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/UserInput/ButtonInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/UserInput/AxisInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/UserInput/InputConfig.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/UserInput/InputInitialization.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Controllers/StartController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Assistance/Assistant.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Configs/UnionData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Configs/InputConfig.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/View/BottomPanelView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/View/ResourceIconElementView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/View/TopResourcePanelView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Controller/Controllers.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Controller/StartController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2JIqkzIVNpLgLKed9MSRyTrziu4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
