@@ -6,7 +6,8 @@ namespace Code.Configs
     internal class ResourceConfig : ScriptableObject
     {
         public Sprite TopIcon;
-        public Sprite BuildIcon;
+        public Sprite TopTextIcon;
+        [SerializeField] private ResourcesType _type;
         [SerializeField] private int _startCount;
 
         public int StartCount => _startCount;

@@ -1,5 +1,7 @@
-﻿using UnityEngine;
+﻿using Code.Configs;
+using UnityEngine;
 using UnityEngine.UI;
+using TMPro;
 
 namespace Code.View
 {
@@ -7,12 +9,15 @@ namespace Code.View
     {
         [SerializeField] private Image _icon;
         [SerializeField] private Image _countCircle;
-        [SerializeField] private TextMesh _resourceCount;
+        [SerializeField] private TMP_Text _resourceCount;
+        [SerializeField] private ResourcesType _type;
 
         public void Init()
         {
             
         }
+
+        public ResourcesType Type => _type;
         
         private void SetIcons(Sprite icon, Sprite countIcon, int startCount)
         {
