@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bb035a5eba149259da9c2d0129d5725, type: 3}
+  m_Name: UIData
+  m_EditorClassIdentifier: 
+  TopResourcePanelView: {fileID: 1148085733716532707, guid: 2dff4c8e6567cd54ab641de096378de8,
+    type: 3}
+  BottomPanelView: {fileID: 1472066011894073299, guid: 5aa5d4cc085ed0044b7e8c5e44db6fbe,
+    type: 3}

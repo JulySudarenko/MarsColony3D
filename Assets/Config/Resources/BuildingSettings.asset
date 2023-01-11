@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 260a7960c02845aba976d8ccadb9924e, type: 3}
+  m_Name: BuildingSettings
+  m_EditorClassIdentifier: 
+  Terrain: {fileID: 6053480225910113636, guid: 9f1bf95f73a786044ab597dca5b0f5ba, type: 3}
+  _buildingsConfigsFolder: BuildingsConfigs
+  _freePlaceColor: {r: 0, g: 1, b: 0, a: 1}
+  _busyPlaceColor: {r: 1, g: 0, b: 0, a: 1}
+  _gizmoColorEven: {r: 0.88, g: 0, b: 1, a: 0.3}
+  _gizmoColorNotEven: {r: 1, g: 0.68, b: 0, a: 0.3}
