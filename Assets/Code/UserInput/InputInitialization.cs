@@ -17,7 +17,7 @@
             // _inputVertical = new AxisInput(config.Vertical);
             // _inputJump = new ButtonInput(config.Jump);
             // _inputWork = new ButtonInput(config.Work);
-            _inputMouseLeft  = new ButtonInput(config.GoTo);
+            _inputMouseLeft  = new ButtonInput(config.MouseLeftInput);
         }
 
         // public IUserInputProxy InputHorizontal => _inputHorizontal;
