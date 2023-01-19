@@ -20,6 +20,7 @@ namespace Code.Controller
             var viewController = new ViewController(_unionData);
 
             _controllers.Add(inputController);
+            _controllers.Add(viewController);
         }
 
         private void Start()

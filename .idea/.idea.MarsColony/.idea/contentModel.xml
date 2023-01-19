@@ -10,13 +10,19 @@
             <e p="Assistant.cs" t="Include" />
           </e>
           <e p="Configs" t="Include">
+            <e p="BuildingConfig.cs" t="Include" />
+            <e p="BuildingSettings.cs" t="Include" />
+            <e p="BuildingsType.cs" t="Include" />
             <e p="InputConfig.cs" t="Include" />
             <e p="ResourceConfig.cs" t="Include" />
+            <e p="ResourcesType.cs" t="Include" />
+            <e p="UIData.cs" t="Include" />
             <e p="UnionData.cs" t="Include" />
           </e>
           <e p="Controller" t="Include">
             <e p="Controllers.cs" t="Include" />
             <e p="StartController.cs" t="Include" />
+            <e p="ViewController.cs" t="Include" />
           </e>
           <e p="Interfaces" t="Include">
             <e p="ICleanup.cs" t="Include" />
