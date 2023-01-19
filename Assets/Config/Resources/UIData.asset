@@ -12,7 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bb035a5eba149259da9c2d0129d5725, type: 3}
   m_Name: UIData
   m_EditorClassIdentifier: 
-  TopResourcePanelView: {fileID: 1148085733716532707, guid: 2dff4c8e6567cd54ab641de096378de8,
+  TopResourcePanelView: {fileID: 1076091633791802673, guid: b8c240ec53998fb40b31ec3226d8c260,
     type: 3}
-  BottomPanelView: {fileID: 1472066011894073299, guid: 5aa5d4cc085ed0044b7e8c5e44db6fbe,
+  BottomPanelView: {fileID: 1183486761244090343, guid: 10f806030ed564547a0dcd5659fcdef5,
     type: 3}
+  TaskPanelView: {fileID: 6082343264563799348, guid: d56148b93b67bc04eaea52094ebdc20e,
+    type: 3}
+  BuildPanelView: {fileID: 0}

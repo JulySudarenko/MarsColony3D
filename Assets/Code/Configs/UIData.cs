@@ -11,6 +11,8 @@ namespace Code.Configs
         // private BottomPanelView _bottomPanelView;        
         public Transform TopResourcePanelView;
         public Transform BottomPanelView;
+        public Transform TaskPanelView;
+        public Transform BuildPanelView;
         private Canvas _canvas;
 
         public Canvas Canvas
