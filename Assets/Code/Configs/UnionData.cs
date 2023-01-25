@@ -3,19 +3,19 @@ using UnityEngine;
 
 namespace Code.Configs
 {
-    [CreateAssetMenu(fileName = "UnionConfig", menuName = "Data/UnionConfig", order = 0)]
+    [CreateAssetMenu(fileName = "UnionData", menuName = "Data/UnionData", order = 0)]
     internal class UnionData : ScriptableObject
     {
         [SerializeField] private string _resourcesFolder = "ResConfigs";
         [SerializeField] private string _inputConfigPath = "InputSettings";
         [SerializeField] private string _uiConfigPath = "UIData";
         [SerializeField] private string _buildingsConfigPath = "BuildingsSettings";
-
+        
         private ResourceConfig[] _resourcesConfigs;
         private InputConfig _inputConfig;
         private UIData _uiData;
         private BuildingSettings _buildingSettings;
-
+        
         public ResourceConfig[] AllResourcesConfigs
         {
             get
@@ -24,7 +24,7 @@ namespace Code.Configs
                 return _resourcesConfigs;
             }
         }
-
+        
         public InputConfig InputConfig
         {
             get
@@ -33,11 +33,11 @@ namespace Code.Configs
                 {
                     _inputConfig = Assistant.Load<InputConfig>(_inputConfigPath);
                 }
-
+        
                 return _inputConfig;
             }
         }
-
+        
         public UIData UIConfig
         {
             get
@@ -46,11 +46,11 @@ namespace Code.Configs
                 {
                     _uiData = Assistant.Load<UIData>(_uiConfigPath);
                 }
-
+        
                 return _uiData;
             }
         }
-
+        
         public BuildingSettings BuildingsConfig
         {
             get
@@ -59,7 +59,7 @@ namespace Code.Configs
                 {
                     _buildingSettings = Assistant.Load<BuildingSettings>(_buildingsConfigPath);
                 }
-
+        
                 return _buildingSettings;
             }
         }
